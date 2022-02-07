@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PP</string>
+    <string name="todo">TODO</string>
+    <string name="text_bean">文本占位</string>
+    <string name="textbean">文本占位</string>
+    <string name="up_text">更新</string>
+</resources>
