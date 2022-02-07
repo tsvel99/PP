@@ -16,7 +16,8 @@
     <include
         layout="@layout/appup_layout"
         android:layout_width="wrap_content"
-
+        android:visibility="gone"
+        android:id="@+id/include_uplayout"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toTopOf="@+id/guideline3"
         app:layout_constraintEnd_toEndOf="@+id/image_flashlayout"
